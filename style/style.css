@@ -26,3 +26,19 @@ li{
      width: 100%;
      min-height: 150px;
  }
+ form {
+     text-align: auto;
+     display: inline-block;
+ }
+ label { 
+     width: 100px;
+     display: inline-block;
+     text-align: left;
+ }
+
+ div {
+     margin-left: 10px;
+ }
+ #Submit {
+     margin-left: 85px;
+ }
